@@ -54,7 +54,7 @@ Name: loan_status, dtype: int64
 * Out of the 619 loan status's that are non-healthy (high-risk), the model 
    predicted 563 as non-healthy correctly and 56 as non-healthy incorrectly.
 
-![Classification Report of Imbalanced DataSet](/Images/confusion_matrix_imbalanced_df.png)
+
 
 </br>
 
@@ -80,7 +80,7 @@ Name: loan_status, dtype: int64
 * Out of the 619 loan status's that are non-healthy (high-risk), the model 
    predicted 615 as non-healthy correctly and 4 as non-healthy incorrectly.
 
-![Classification Report of Imbalanced DataSet](/Images/confusion_matrix_balanced_df.png)
+
 
 </br>
 
@@ -105,11 +105,11 @@ Name: loan_status, dtype: int64
 
 `According to the models recall scores, the model made 1% of mistakes when predicting healthy loans and made 9% of mistakes when predicted non-healthy loans.`
 
-![Classification Report of Imbalanced DataSet](/Images/classification_report_imbalanced.png)
+
 
 `The model generated an accuracy score of 95% but could be improved due to the dataset being imbalanced.`
 
-![Accuracy Score of Imbalanced DataSet](/Images/accuracy_score_imbalanced_dataset.png)
+
 
 </br>
 
@@ -130,11 +130,10 @@ Name: loan_status, dtype: int64
 
 `According to the models recall scores, the model made 1% of mistakes when predicting healthy loans and made 1% of mistakes when predicted non-healthy loans.`
 
-![Classification Report of Imbalanced DataSet](/Images/classification_report_balanced.png)
+
 
 `The model generated an accuracy score of 99% due to the dataset being balanced.`
 
-![Accuracy Score of Imbalanced DataSet](/Images/accuracy_score_balanced_dataset.png)
 
 </br>
 
