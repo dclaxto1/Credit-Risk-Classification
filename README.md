@@ -72,7 +72,7 @@ To do so, complete the following steps:
 
 For this section, you’ll write a brief report that includes a summary and an analysis of the performance of both machine learning models that you used in this homework. You should write this report as the `README.md` file included in your GitHub repository.
 
-Structure your report by using the report template that `Starter_Code.zip` includes, and make sure that it contains the following:
+Structure your report by using the report template that `Starter_Code.zip` includes, and make sure that it contains all of the following:
 
 1. An overview of the analysis: Explain the purpose of this analysis.
 
