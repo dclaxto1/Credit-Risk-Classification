@@ -52,7 +52,7 @@ Employ your knowledge of logistic regression to complete the following steps:
 
 Did you notice the small number of high-risk loan labels? Perhaps, a model that uses resampled data will perform better. You’ll thus resample the training data and then reevaluate the model. Specifically, you’ll use `RandomOverSampler`.
 
-To do so, complete the following steps:
+To do so, complete the following steps;
 
 1. Use the `RandomOverSampler` module from the imbalanced-learn library to resample the data. Be sure to confirm that the labels have an equal number of data points.
 
