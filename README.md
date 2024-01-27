@@ -7,7 +7,7 @@ Using Logistic Regression Models to identify the creditworthiness of borrowers.
 ## Instructions
 
 This homework consists of the following subsections:
-
+ 
 * Split the Data into Training and Testing Sets
 
 * Create a Logistic Regression Model with the Original Data
