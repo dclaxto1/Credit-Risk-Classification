@@ -3,7 +3,7 @@ Using Logistic Regression Models to identify the creditworthiness of borrowers.
 
 ![credit score](https://github.com/dclaxto1/Credit-Risk-Classification/assets/128431134/53d54661-9e3d-4c70-9219-528dc842d328)
 
-
+ 
 ## Instructions
  
 This homework consists of the following subsections:
